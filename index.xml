@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<panoramaStudioViewer version="3.0">
+    <image projection="cubic" multilevel="true" baseindex="1">
+      <bitmap width="6814" height="6814" tilesize="549"> 
+        <front src="index_tiles/index_t_1f_%0y_%0x.jpg"/>
+        <back src="index_tiles/index_t_1b_%0y_%0x.jpg"/>
+        <left src="index_tiles/index_t_1l_%0y_%0x.jpg"/>
+        <right src="index_tiles/index_t_1r_%0y_%0x.jpg"/>
+        <up src="index_tiles/index_t_1u_%0y_%0x.jpg"/>
+        <down src="index_tiles/index_t_1d_%0y_%0x.jpg"/>
+      </bitmap>
+      <bitmap width="3407" height="3407" tilesize="549"> 
+        <front src="index_tiles/index_t_2f_%0y_%0x.jpg"/>
+        <back src="index_tiles/index_t_2b_%0y_%0x.jpg"/>
+        <left src="index_tiles/index_t_2l_%0y_%0x.jpg"/>
+        <right src="index_tiles/index_t_2r_%0y_%0x.jpg"/>
+        <up src="index_tiles/index_t_2u_%0y_%0x.jpg"/>
+        <down src="index_tiles/index_t_2d_%0y_%0x.jpg"/>
+      </bitmap>
+      <bitmap width="1703" height="1703" tilesize="549"> 
+        <front src="index_tiles/index_t_3f_%0y_%0x.jpg"/>
+        <back src="index_tiles/index_t_3b_%0y_%0x.jpg"/>
+        <left src="index_tiles/index_t_3l_%0y_%0x.jpg"/>
+        <right src="index_tiles/index_t_3r_%0y_%0x.jpg"/>
+        <up src="index_tiles/index_t_3u_%0y_%0x.jpg"/>
+        <down src="index_tiles/index_t_3d_%0y_%0x.jpg"/>
+      </bitmap>
+      <bitmap width="851" height="851" tilesize="549"> 
+        <front src="index_tiles/index_t_4f_%0y_%0x.jpg"/>
+        <back src="index_tiles/index_t_4b_%0y_%0x.jpg"/>
+        <left src="index_tiles/index_t_4l_%0y_%0x.jpg"/>
+        <right src="index_tiles/index_t_4r_%0y_%0x.jpg"/>
+        <up src="index_tiles/index_t_4u_%0y_%0x.jpg"/>
+        <down src="index_tiles/index_t_4d_%0y_%0x.jpg"/>
+      </bitmap>
+      <bitmap width="425" height="425" tilesize="549"> 
+        <front src="index_tiles/index_t_5f_%0y_%0x.jpg"/>
+        <back src="index_tiles/index_t_5b_%0y_%0x.jpg"/>
+        <left src="index_tiles/index_t_5l_%0y_%0x.jpg"/>
+        <right src="index_tiles/index_t_5r_%0y_%0x.jpg"/>
+        <up src="index_tiles/index_t_5u_%0y_%0x.jpg"/>
+        <down src="index_tiles/index_t_5d_%0y_%0x.jpg"/>
+      </bitmap>
+      <preview src="index_tiles/index_preview.jpg" />
+    </image>
+    <camera minpan="0.00" maxpan="360.00" mintilt="-81.32" maxtilt="66.27" maxzoom="1.5"     />
+    <view pan="118.20" tilt="-1.31" hfov="90.00" />
+    <hotspots visible="true" />
+    <hotspot bitmap="flecha.png" embeddedwidth="11.669" rotate="326.850" bitmaptype="embedded" position="114.8206,20.9865" unit="deg" transition="zoomin,2;blend,2" href="entradaizq.html" target="" 
+          >
+          <textbox text="Aula 4" style="color:#ffffff; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;" filters="glow, #000000 ,0.8,2.0,2.0,3,1 ; glow,#000000,0.3,4.0,4.0,1,1" />
+</hotspot>
+    <hotspot bitmap="flecha.png" embeddedwidth="11.308" rotate="0.000" bitmaptype="embedded" position="299.2601,8.8789" unit="deg" transition="zoomin,2;blend,2" href="dptoindustrial.html" target="" 
+          >
+          <textbox text="Departamento De Diseño Industrial " style="color:#ffffff; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;" filters="glow, #000000 ,0.8,2.0,2.0,3,1 ; glow,#000000,0.3,4.0,4.0,1,1" />
+</hotspot>
+        <autoplay status="on" pan="2.00" tilt="0.00" zoom="1.00" restart="10.00" />
+    <toolbar visible="true" layout="0" design="12" 
+      fullscreenbutton="true" playbutton="true" 
+      buttonwidth="24" buttonheight="20" dpidependent="true" touchzoomonly="true"
+      align="leftbottom"  xoff="4" yoff="-4" 
+    />
+    <textbox text="Entrada Sede Fonseca" align="top" width="66%" style=" color:#ffffff; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-align:center; " filters="glow, #000000 ,1,2.0,2.0,3,1 ; glow,#000000,0.5,5.0,5.0,1,1" />    <progress type="progressBar" text="Loading: %d%" style=" color:#ffffff; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: bold; text-align:center; " filters="glow, #000000 ,1,2.0,2.0,3,1 ; glow,#000000,0.5,5.0,5.0,1,1"/>    <strings lang="en" />
+</panoramaStudioViewer>
